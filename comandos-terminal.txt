@@ -1,0 +1,7 @@
+cd
+mkdir
+ls
+git status
+cat
+touch
+pwd
