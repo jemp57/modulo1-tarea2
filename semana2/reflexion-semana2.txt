@@ -1,4 +1,7 @@
 ¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
 Respuesta: La terminal asusta al principio. Después de un tiempo, no entiendes cómo trabajabas sin ella.
-Lo más obvio es la velocidad: lo que en un explorador de archivos toma varios clics, en la terminal es una línea. Crear carpetas, mover archivos, ejecutar scripts, sin soltar el teclado.
-Pero la razón real para aprenderla es otra. La mayoría de herramientas de desarrollo no tienen interfaz gráfica, o si la tienen, es limitada. Git, gestores de paquetes, entornos de programación: todos asumen que sabes moverte por la terminal. Sin eso, dependes de que alguien más haya construido un botón para lo que necesitas. Y muchas veces, nadie lo hizo.
+Lo más obvio es la velocidad: lo que en un explorador de archivos toma varios clics, en la terminal es una línea. 
+Crear carpetas, mover archivos, ejecutar scripts, sin soltar el teclado.
+Pero la razón real para aprenderla es otra. La mayoría de herramientas de desarrollo no tienen interfaz gráfica, o si la tienen, es limitada. 
+Git, gestores de paquetes, entornos de programación: todos asumen que sabes moverte por la terminal. 
+Sin eso, dependes de que alguien más haya construido un botón para lo que necesitas. Y muchas veces, nadie lo hizo.
